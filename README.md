@@ -53,9 +53,13 @@ To install pandas
 - After extracting the data received from Spotify, get the folder path containing the JSON files and paste it into the folder_path variable.
 ![image](https://github.com/Izor12/Spotify-data-analysis/assets/77780623/e8034deb-5823-4d8d-9e93-558d3dd9d580)
 
-- Paste the client id and client secret from above created developer app
+- Paste the client id and client secret from above-created developer app
 ![image](https://github.com/Izor12/Spotify-data-analysis/assets/77780623/d1fa7a9a-cb56-4368-b8e7-0b39ad3a3544)
 
-- Running the code should output a excel file called "Spotify-data-analysis.xlsx" containing the raw json data and track data with audio features
+- Running the code should output a Excel file called "Spotify-data-analysis.xlsx" containing the raw JSON data and track data with audio features
+
+# Example Excel file
+![Sheet1](https://github.com/Izor12/Spotify-data-analysis/assets/77780623/d9a71d4d-d740-4e3b-b398-507135b7f641)
+![Sheet2](https://github.com/Izor12/Spotify-data-analysis/assets/77780623/2772ac32-63fa-44cc-b220-0f0baaeec470)
 
 
